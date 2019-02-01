@@ -5,7 +5,7 @@ lista de blogs, kernels, artículos, vídeos, noticias y enlaces de interés sob
 
 ### Meetups
 <!-- MarkdownTOC depth=4 -->
-
+[Variational Autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8&feature=youtu.be) : Sobre distangled variational autoencoders
 
 ### Blogs
 <!-- MarkdownTOC depth=4 -->
@@ -13,6 +13,7 @@ lista de blogs, kernels, artículos, vídeos, noticias y enlaces de interés sob
 
 ### Artículos & Papers
 <!-- MarkdownTOC depth=4 -->
+[What follows AlphaStar for Academic AI Researchers](https://towardsdatascience.com/what-follows-alphastar-for-academic-ai-researchers-befe0fc66d39?gi=a2a490802be6)
 
 
 ### Noticias
